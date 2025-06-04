@@ -89,14 +89,10 @@ Open [http://localhost:3000](http://localhost:3000) to view in the browser.
 - Add task filtering and sorting
 - Implement user profile management
 
-## License
-
-MIT License © 2025 Your Name
-
 ---
 
 Feel free to open issues or contribute!
 
 ---
 
-**Author:** Your Name — [yourwebsite.com](https://yourwebsite.com) — [GitHub](https://github.com/yourusername)
+**Author:** Valeria Lake [GitHub](https://github.com/VVLake)
